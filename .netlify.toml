@@ -2,6 +2,6 @@
 # routing internally.
 [[redirects]]
   from = "/*"
-  to = "jimmytidey.com"
-  status = 200
+  to = "https://jimmytidey.com"
+  status = 301
 
